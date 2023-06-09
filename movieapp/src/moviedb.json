@@ -1,0 +1,82 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "ps-2",
+      "desc": "j",
+      "type": "drama"
+    },
+    {
+      "id": "2",
+      "title": "asd",
+      "desc": "dgf",
+      "type": "dyc"
+    },
+    {
+      "id": "12",
+      "title": "evil dead",
+      "desc": "horror",
+      "type": "gross"
+    },
+    {
+      "id": "5",
+      "title": "Lucy",
+      "desc": "abc",
+      "type": "Sci-fic"
+    },
+    {
+      "id": "23",
+      "title": "abcd",
+      "desc": "sdf",
+      "type": "dance"
+    },
+    {
+      "id": "21",
+      "title": "cvbn",
+      "desc": "hi",
+      "type": "sharon"
+    },
+    {
+      "id": "102",
+      "title": "godzilla",
+      "desc": "fantasy",
+      "type": "govm"
+    },
+    {
+      "id": "sn",
+      "title": "cd",
+      "desc": "cd",
+      "type": "asd"
+    },
+    {
+      "id": "a",
+      "title": "",
+      "desc": "b",
+      "type": "c"
+    },
+    {
+      "id": "1233",
+      "title": "in",
+      "desc": "ur",
+      "type": "face"
+    },
+    {
+      "id": "123",
+      "title": "hero",
+      "desc": "sappy",
+      "type": "drama"
+    },
+    {
+      "id": "256",
+      "title": "Avatar",
+      "desc": "fantasy",
+      "type": "sci-fi"
+    },
+    {
+      "id": "34",
+      "title": "fs",
+      "desc": "za",
+      "type": "sa"
+    }
+  ]
+}
